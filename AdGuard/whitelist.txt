@@ -1,11 +1,9 @@
 ! Title: Custom Allowlist
 ! Description: Custom Allowlist
-! Homepage: https://github.com/hagezi/dns-blocklists
-! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
-! Issues: https://github.com/hagezi/dns-blocklists/issues
+! Homepage: https://github.com/Loweack/Public/AdGuard
 ! Expires: 1 day
-! Last modified: 13 May 2025 23:07 UTC
-! Version: 2025.0513.2307.33
+! Last modified: 13 May 2025 00:00 UTC
+! Version: 1
 ! Syntax: AdBlock
 !
 @@||auth.split.io
