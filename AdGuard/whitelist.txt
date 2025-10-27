@@ -9,3 +9,7 @@
 @@||auth.split.io
 @@||sdk.split.io
 @@||events.split.io
+@@||sdkconfig.ad.intl.xiaomi.com
+@@||api.ad.intl.xiaomi.com
+@@||tracking.eu.miui.com
+@@||browser-intake-datadoghq.com
