@@ -15,3 +15,12 @@
 ! -- Android Connectivity Checks --
 ! Using specific wildcard to avoid unblocking all Google tracking
 @@*-dnsotls-ds.metric.gstatic.com^
+
+! Xiaomi Connectivity Checks
+@@||connect.rom.miui.com^
+@@||generate_204.com^
+@@||www.generate_204.com^
+
+! Qualcomm Connectivity (Used by Xiaomi 15 Snapdragon chips)
+@@||www.qualcomm.cn^
+@@||qualcomm.cn^
