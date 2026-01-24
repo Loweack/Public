@@ -6,7 +6,12 @@
 ! Version: 1
 ! Syntax: AdBlock
 !
-@@||auth.split.io
-@@||sdk.split.io
-@@||events.split.io
-@@||browser-intake-datadoghq.com
+! -- Developer Tools / Feature Flags --
+@@||auth.split.io^
+@@||sdk.split.io^
+@@||events.split.io^
+@@||browser-intake-datadoghq.com^
+
+! -- Android Connectivity Checks --
+! Using specific wildcard to avoid unblocking all Google tracking
+@@*-dnsotls-ds.metric.gstatic.com^
