@@ -21,6 +21,6 @@
 @@||generate_204.com^
 @@||www.generate_204.com^
 
-! Qualcomm Connectivity (Used by Xiaomi 15 Snapdragon chips)
+! Qualcomm Connectivity
 @@||www.qualcomm.cn^
 @@||qualcomm.cn^
