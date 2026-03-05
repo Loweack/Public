@@ -11,3 +11,4 @@
 @@||sdk.split.io^
 @@||events.split.io^
 @@||browser-intake-datadoghq.com^
+@@||vanced.to^
